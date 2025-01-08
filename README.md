@@ -49,9 +49,9 @@ FigJam Assets:
 
 
 ### GitHub UI
-[Primer Design System](https://primer.style/)
-[Shields.io](https://shields.io/)
-[Simple Icons](https://simpleicons.org/)
+[Primer Design System](https://primer.style/) <br />
+[Shields.io](https://shields.io/) <br />
+[Simple Icons](https://simpleicons.org/) <br />
 
 
 ## Graphics, Flyers, etc.
