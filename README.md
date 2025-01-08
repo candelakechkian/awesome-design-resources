@@ -2,23 +2,23 @@
 A curated list of awesome design tools, apps, libraries, development resources, and more
 
 ## Photo Editing
-Photoshop - Firefly
-[remove.bg](https://www.remove.bg/) - remove image background
+Photoshop - Firefly <br />
+[remove.bg](https://www.remove.bg/) - remove image background <br />
 
 
 ## Video Editing
-Premiere Pro - Firefly
+Premiere Pro - Firefly <br />
 
 
 ## AI Image Generators
-[Microsoft Bing Image Creator](https://www.bing.com/images/create)
-Adobe Firefly
-DALL·E
-Midjourney
+[Microsoft Bing Image Creator](https://www.bing.com/images/create) <br />
+Adobe Firefly <br />
+DALL·E <br />
+Midjourney <br />
 
 ## UI Design
-[Figma](https://www.figma.com/)
-[uizard](https://uizard.io/)
+[Figma](https://www.figma.com/) <br />
+[uizard](https://uizard.io/) <br />
 
 ### Best of [Figma Community](https://www.figma.com/community):
 Design templates:
@@ -47,13 +47,13 @@ FigJam Assets:
 
 
 ## Graphics, Flyers, etc.
-[Adobe Express](https://www.adobe.com/express/)
+[Adobe Express](https://www.adobe.com/express/) <br />
 
 
 ## 3D Design
-[CGTrader](https://www.cgtrader.com/)
-Autodesk Maya
+[CGTrader](https://www.cgtrader.com/) <br />
+Autodesk Maya <br />
 
 
 ## Website Builders
-[Webflow](https://webflow.com/) - best website builder with the most comprehensive functionality. Free plan allows only 2 pages but allows 20 CMS collections and 50 CMS items (each on their own page) so you can get creative
+[Webflow](https://webflow.com/) - best website builder with the most comprehensive functionality. Free plan allows only 2 pages but allows 20 CMS collections and 50 CMS items (each on their own page) so you can get creative <br />
