@@ -11,7 +11,10 @@ Premiere Pro - Firefly
 
 
 ## AI Image Generators
-
+[Microsoft Bing Image Creator] (https://www.bing.com/images/create)
+Adobe Firefly
+DALL·E
+Midjourney
 
 ## UI Design
 [Figma] (https://www.figma.com/)
