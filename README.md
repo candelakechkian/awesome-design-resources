@@ -1,3 +1,5 @@
+![Candela Verified](https://github.com/candelakechkian/badges/blob/main/candela-verified-badge.svg)
+
 # Awesome Design Resources
 A curated list of awesome design tools, apps, libraries, development resources, and more
 
