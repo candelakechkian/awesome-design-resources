@@ -1,6 +1,5 @@
 [![Candela Verified](https://github.com/candelakechkian/badges/blob/main/candela-verified-badge.svg)](https://github.com/candelakechkian/badges/blob/main/README.md)
 [![WIP](https://github.com/candelakechkian/badges/blob/main/wip.svg)](https://github.com/candelakechkian/badges/blob/main/README.md)
-[![WIP](https://github.com/candelakechkian/badges/blob/main/WIP.png)
 
 # Awesome Design Resources
 A curated list of awesome design tools, apps, libraries, development resources, and more
