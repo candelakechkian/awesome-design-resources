@@ -19,9 +19,17 @@ Adobe Firefly <br />
 DALL·E <br />
 Midjourney <br />
 
+
 ## UI Design
 [Figma](https://www.figma.com/) <br />
 [uizard](https://uizard.io/) <br />
+
+
+## Icons
+[icons8](https://icons8.com/icons) <br />
+[feather](https://feathericons.com/) <br />
+[Flaticon](https://www.flaticon.com/) <br />
+
 
 ### Best of [Figma Community](https://www.figma.com/community):
 Design templates:
@@ -67,3 +75,5 @@ Autodesk Maya <br />
 ## Website Builders
 [Webflow](https://webflow.com/) - best website builder with the most comprehensive functionality. Free plan allows only 2 pages but allows 20 CMS collections and 50 CMS items (each on their own page) so you can get creative <br />
 
+## Stock Photos
+[Adobe Stock](https://stock.adobe.com/) <br />
