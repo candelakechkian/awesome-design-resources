@@ -5,6 +5,7 @@
 A curated list of awesome design tools, apps, libraries, development resources, and more
 
 ## Photo Editing
+[TeslaWraps](https://teslawraps.design) - Free browser Tesla Paint Shop wrap editor; core editing + PNG export free, no account. <br />
 Photoshop - Firefly <br />
 [remove.bg](https://www.remove.bg/) - remove image background <br />
 
@@ -14,6 +15,7 @@ Premiere Pro - Firefly <br />
 
 
 ## AI Image Generators
+[PromptImage](https://promptimage.cloud) - Free AI image & video studio with prompt library; freemium signup credits, no card. <br />
 [Microsoft Bing Image Creator](https://www.bing.com/images/create) <br />
 Adobe Firefly <br />
 DALL·E <br />
